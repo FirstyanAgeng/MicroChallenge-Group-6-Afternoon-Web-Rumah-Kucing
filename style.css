@@ -1,0 +1,130 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: white;
+  color: black;
+}
+
+.tales {
+  width: 200px;
+  height: 500px;
+}
+
+.kata {
+  text-align: center;
+}
+
+.isi {
+  margin: 20px;
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  text-align: center;
+}
+
+.h-isi {
+  font-family: "Inter", sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+}
+
+.p-isi {
+  font-family: "Inter", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+#btn3 {
+  background-color: #5529b4;
+  color: white;
+  text-align: right;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.isi2 {
+  text-align: center;
+}
+
+.h-konsul {
+  font-family: "Inter", sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+}
+
+.p-konsul {
+  font-family: "Inter", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.tentang {
+  font-family: "Inter", sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+}
+
+.h-kontak {
+  font-family: "Inter", sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+  text-align: left;
+}
+
+.p-kontak {
+  font-family: "Inter", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  color: #6d7280;
+}
+
+footer {
+  background-color: white;
+  color: black;
+}
+
+.h1-footer {
+  font-family: "Red Rose", cursive;
+  font-size: 30;
+}
+
+.p-footer {
+  font-family: "Inter", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.p-footer2 {
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  color: #6d7280;
+}
+
+.p-footer3 {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 13;
+  color: #6d7280;
+}
+
+#btn-footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  width: 35%;
+  border-radius: 10px;
+}
+
+@media screen and (max-width: 680px) {
+  #maincontent {
+    width: auto;
+    float: none;
+  }
+  #sidebar {
+    width: auto;
+    float: none;
+  }
+}
