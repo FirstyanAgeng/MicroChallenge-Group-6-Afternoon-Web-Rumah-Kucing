@@ -3,8 +3,6 @@
   padding: 0;
 }
 body {
-  background-color: white;
-  color: black;
 }
 
 .tales {
@@ -34,18 +32,6 @@ body {
   font-family: "Inter", sans-serif;
   font-size: 20px;
   font-weight: 400;
-}
-
-#btn3 {
-  background-color: #5529b4;
-  color: white;
-  text-align: right;
-  border-radius: 10px;
-  padding: 10px;
-}
-
-.isi2 {
-  text-align: center;
 }
 
 .h-konsul {
@@ -103,18 +89,12 @@ footer {
   color: #6d7280;
 }
 
-.p-footer3 {
-  font-family: "Inter", sans-serif;
-  font-weight: 400;
-  font-size: 13;
-  color: #6d7280;
-}
-
 #btn-footer {
   background-color: black;
   color: white;
   text-align: center;
-  width: 35%;
+  width: 130px;
+  height: 34px;
   border-radius: 10px;
 }
 
